@@ -24,6 +24,12 @@ Wait for Automation: Wait for some time, and your chatbot will be automatically 
 
 
 
+Full Tutorial:
+
+https://youtu.be/eAg5jbRzIOw?si=RPAUgEyPGWUZGfh-
+
+
+
 
 Video Tutorial (Just for reference)
 
