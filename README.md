@@ -21,3 +21,10 @@ Wait for Space Creation: Wait for some time until the space has been created.
 Access Files Section: Navigate to the files section located at the top left corner.
 Upload Source Code: Download the source code from the provided link and upload it to the files section.
 Wait for Automation: Wait for some time, and your chatbot will be automatically ready.
+
+
+
+
+Video Tutorial (Just for reference)
+
+https://youtu.be/3bSVKNKb_PY?si=NqRDO7xQwcEn1YwN
